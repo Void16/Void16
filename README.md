@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Void16
+- 👋 Hi, I’m @Glitch
 - 👀 I’m interested in gaming n programming.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on programming.
