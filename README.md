@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glitch
 - 👀 I’m interested in gaming n programming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently a intermediate python computer programmer .
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me ...
 
